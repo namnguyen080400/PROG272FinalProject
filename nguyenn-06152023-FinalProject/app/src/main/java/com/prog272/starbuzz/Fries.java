@@ -8,7 +8,6 @@ public class Fries {
 
 //To get us started, fries is an array of three Fries.  R.drawable.. are file paths to the image files
 
-    // TODO change pictures
     public static final Fries[] fries = {
             new Fries("Regular Fries", "Plain Fries with salt $4.00",
                     R.drawable.regularfries),
