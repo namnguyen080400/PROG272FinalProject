@@ -19,6 +19,24 @@
             android:name=".HamburgerCategoryActivity"
             android:exported="false" />
         <activity
+            android:name=".FriesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FriesCategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SnackActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SnackCategoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DessertActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DessertCategoryActivity"
+            android:exported="false" />
+        <activity
             android:name=".TopLevelActivity"
             android:exported="true">
             <intent-filter>
