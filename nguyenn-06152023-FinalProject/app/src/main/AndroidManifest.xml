@@ -13,10 +13,10 @@
         android:theme="@style/Theme.Starbuzz"
         tools:targetApi="31">
         <activity
-            android:name=".DrinkActivity"
+            android:name=".HamburgerActivity"
             android:exported="false" />
         <activity
-            android:name=".DrinkCategoryActivity"
+            android:name=".HamburgerCategoryActivity"
             android:exported="false" />
         <activity
             android:name=".TopLevelActivity"

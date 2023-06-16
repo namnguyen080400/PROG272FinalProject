@@ -4,9 +4,10 @@
     <string name="starbuzz_logo">Starbuzz logo</string>
 
     <string-array name="options">
-        <item>Drinks</item>
-        <item>Food</item>
-        <item>Stores</item>
+        <item>Hamburger</item>
+        <item>Fries</item>
+        <item>Snack</item>
+        <item>Dessert</item>
     </string-array>
 
 </resources>

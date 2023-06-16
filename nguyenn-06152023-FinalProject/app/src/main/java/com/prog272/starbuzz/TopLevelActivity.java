@@ -34,11 +34,11 @@ public class TopLevelActivity extends Activity {
                                     long id) {
 
 
-//Launch DrinkCategoryActivity when a user clicks on the Drinks item, we'll create this next
+//Launch HamburgerCategoryActivity when a user clicks on the Hamburger item, we'll create this next
 //Ignore Android Studio's message that it does not exist
 
                 if (position == 0) {
-                    Intent intent = new Intent(TopLevelActivity.this, DrinkCategoryActivity.class);
+                    Intent intent = new Intent(TopLevelActivity.this, HamburgerCategoryActivity.class);
                     startActivity(intent);
                 }
             }
